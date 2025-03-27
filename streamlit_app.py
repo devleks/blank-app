@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import base64
 from io import BytesIO
 
-st.title(" Text Toixicity App")
+st.title(" Text Toxicity App")
 st.write( "😃 Welcome To The Friendly Text Moderation"
 )
 
